@@ -28,6 +28,7 @@ Hi there👋, I am a Front End Web Developer who is passionate about error-free 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDRAFIQULISLAMSHANTO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDRAFIQULISLAMSHANTO&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDRAFIQULISLAMSHANTO&theme=dark&show_icons=true)
  
 ![GitHub Activity Graph](https://github-contribution-graph.ez4o.com/?username=MDRAFIQULISLAMSHANTO&last_n_days=7&img_url=https%3A%2F%2Fimage.cache.storm.mg%2Fmedia%2Fimage%2F2021%2F03%2F05%2F20210305-031458_U22011_M676060_ca39.gif)
 
