@@ -30,7 +30,7 @@ Hi there👋, I am a Front End Web Developer who is passionate about error-free 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDRAFIQULISLAMSHANTO&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MDRAFIQULISLAMSHANTO)  
-![GitHub Activity Graph](https://github-contribution-graph.ez4o.com/?username=MDRAFIQULISLAMSHANTO&last_n_days=7&img_url=https%3A%2F%2Fimage.cache.storm.mg%2Fmedia%2Fimage%2F2021%2F03%2F05%2F20210305-031458_U22011_M676060_ca39.gif))
+![GitHub Activity Graph](https://github-contribution-graph.ez4o.com/?username=MDRAFIQULISLAMSHANTO&last_n_days=10&img_url=https%3A%2F%2Fimage.cache.storm.mg%2Fmedia%2Fimage%2F2021%2F03%2F05%2F20210305-031458_U22011_M676060_ca39.gif))
 
 
 ![GitHub metrics](https://metrics.lecoq.io/MDRAFIQULISLAMSHANTO)  
