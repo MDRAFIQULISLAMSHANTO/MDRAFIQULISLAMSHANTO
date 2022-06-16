@@ -14,7 +14,7 @@ Hi there👋, I am a Front End Web Developer who is passionate about error-free 
 <p align="left">
 <a href="https://www.linkedin.com/in/md-rafiqul-islam-shanto-2152b5186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rafiqul-islam-shanto-2152b5186/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/CODE_TAG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/CODE_TAG" height="30" width="40" /></a>
- <a href="rishanto.001@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rishanto.001@gmail.com" height="30" width="40" /></a>
+ <a href="https://rishanto.001@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="https://rishanto.001@gmail.com" height="30" width="40" /></a>
  
   
 </p>
