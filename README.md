@@ -1,8 +1,6 @@
 
 
-![Web Developer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/287492557_106365775447977_2272313030080164049_n.png?stp=dst-png_p320x320&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=EMd6y4yex3kAX9RA5LE&_nc_ht=scontent.fdac135-1.fna&oh=00_AfCCbsaUg13hYFVc4DTX13aP7WwsbLRW9_TLVtY0MGWp1Q&oe=63D125C3)
-# Rafiqul Islam Shanto
-#### Web Developer
+
 
 
 Hi there👋, I am a Front End Web Developer who is passionate about error-free websites. I have a passion for learning and sharing my knowledge.
