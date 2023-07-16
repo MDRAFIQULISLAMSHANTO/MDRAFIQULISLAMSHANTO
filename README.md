@@ -32,9 +32,9 @@ Hi there👋, I am a Web Developer who is passionate about error-free websites. 
  
 
 
-![GitHub metrics](https://metrics.lecoq.io/MDRAFIQULISLAMSHANTO)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MDRAFIQULISLAMSHANTO)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=MDRAFIQULISLAMSHANTO)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub metrics](https://metrics.lecoq.io/MDRAFIQULISLAMSHANTO)  
 
