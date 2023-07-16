@@ -25,7 +25,6 @@ Hi there👋, I am a Web Developer who is passionate about error-free websites. 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDRAFIQULISLAMSHANTO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDRAFIQULISLAMSHANTO&theme=dark&show_icons=true)
