@@ -9,7 +9,7 @@ Hi there👋, I am a Web Developer who is passionate about error-free websites. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
-![Profile views](https://gpvc.arturio.dev/MDRAFIQULISLAMSHANTO)  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-rafiqul-islam-shanto-2152b5186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rafiqul-islam-shanto-2152b5186/" height="30" width="40" /></a>
@@ -36,5 +36,5 @@ Hi there👋, I am a Web Developer who is passionate about error-free websites. 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MDRAFIQULISLAMSHANTO)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=MDRAFIQULISLAMSHANTO)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/MDRAFIQULISLAMSHANTO)  
+ 
 
